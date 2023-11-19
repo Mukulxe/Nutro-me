@@ -9,6 +9,9 @@ Furthermore, NutroMe strives to enhance economic opportunities by enabling vendo
 In conclusion, NutroMe is not just a home food aggregator; it's a transformative platform that connects communities, supports local vendors, empowers women, and enriches lives through delicious and wholesome homemade meals. With NutroMe, everyone wins – vendors, customers, and the communities we serve. Join us in this exciting journey of culinary exploration, empowerment, and nourishment.
 
 
+![Group 13346](https://github.com/Mukulxe/Nutro-me/assets/90601986/81b743c9-8d18-4c08-b5fb-06243e68e2f1)
+![Rectangle-3](https://github.com/Mukulxe/Nutro-me/assets/90601986/7e8d2b7b-4d83-4ee4-9417-285f60721ae5)
+![Rectangle-5](https://github.com/Mukulxe/Nutro-me/assets/90601986/e2b6e7b5-b5aa-40b4-8a32-78649b6096cc)
 
 
 
